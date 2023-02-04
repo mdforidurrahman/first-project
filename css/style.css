@@ -1,0 +1,213 @@
+body{
+    margin: 0;
+    background: #ddd;
+}
+
+.logo{
+    padding-right: 705px;
+}
+.forid{
+    text-align: right;
+    background: #e9e9e9;
+    
+}
+
+.forid li{
+    display: inline-block;
+    font-size: 15pt;
+    
+}
+
+.forid li a{
+    text-decoration: none;
+}
+
+.bd-highlight{
+    padding-right: 200px;
+}
+
+
+.slider{
+    text-align: center;
+    
+}
+
+
+.slider{
+    position: relative;
+    
+}
+
+.myname{
+    font-size: 50px;
+    color: white;
+    position: absolute;
+    transform: translate(120%, -420%);
+    
+}
+
+
+.post{
+    font-size: 40px;
+    color: rgb(251, 254, 79);
+    position: absolute;
+    transform: translate(210%, -440%);
+    
+}
+
+button{
+    margin: 0;
+}
+
+.contact{
+    color:white;
+    border: white;
+    font-size: 25px;
+    position: absolute;
+    transform: translate(680%, -520%);
+}
+
+.slide{
+    margin: 0;
+    padding: 0;
+    height: 453px;
+}
+
+.about{
+    padding-top: 10px;
+    height: 240px;
+    background: white;
+    text-align: center;
+    
+}
+
+.color{
+    color: white;
+}
+
+.about p{
+    font-size: 20px;
+}
+
+.about b{
+    font-size: 40px;
+}
+
+#skills{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+.professional{
+    font-weight: bold;
+    height: 350px;
+    background:#e9e9e9 ;
+    font-size: 22px;
+    padding-left: 50px;
+    padding-top: 55px;
+    text-align: center;
+   
+}
+
+
+.work li{
+    height: 210px;
+    background: white;
+    display: inline-block;
+    padding: 74.9px;
+    text-align: center;
+    font-size: 23px;
+}
+
+.prot li{
+    display: inline-block;
+}
+
+
+
+/* footer strat */
+
+.foot{
+    background: #4a4949;
+    height: 400px;
+    
+}
+
+.col-4{
+    color: white;
+    font-size: 40px;
+    padding-top: 140px;
+    padding-left: 120px;
+}
+
+.info{
+    padding-top: 136px;
+    font-size: 40px;
+    color: white;
+ 
+}
+
+
+.info-1 {
+    color: white;
+    list-style: none;
+   
+}
+
+.info-2 {
+    color: white;
+    list-style: none;
+   
+}
+
+.info-1:hover{
+    color: #51b3fd;
+}
+
+.info-2:hover{
+    color: #51b3fd;
+}
+
+
+.col-1{
+    color: white;
+    padding-top:145px;
+    padding-left:40px;
+}
+
+
+.marketplace{
+    color: white;
+    list-style: none;
+    padding-top:100px;
+    padding-left:100px;
+}
+
+.marketplace a:hover{
+    color:#51b3fd;
+    
+}
+
+.marketplace a{
+    text-decoration: none;
+    color: white;
+}
+
+.marketplace-2{
+    color: white;
+    list-style: none;
+    padding-top:135px;
+    padding-left:20px;
+}
+
+.marketplace-2 a{
+    text-decoration: none;
+    color: white;
+}
+
+.marketplace-2 a:hover{
+    color: #51b3fd;
+}
+
+/* footer  End */
